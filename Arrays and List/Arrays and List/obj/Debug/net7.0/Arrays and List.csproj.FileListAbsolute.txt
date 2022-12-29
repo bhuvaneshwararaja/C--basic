@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/bin/Debug/net7.0/Arrays and List
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/bin/Debug/net7.0/Arrays and List.deps.json
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/bin/Debug/net7.0/Arrays and List.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/bin/Debug/net7.0/Arrays and List.dll
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/bin/Debug/net7.0/Arrays and List.pdb
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.dll
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/refint/Arrays and List.dll
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.pdb
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/Arrays and List.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-basic/Arrays and List/Arrays and List/obj/Debug/net7.0/ref/Arrays and List.dll
