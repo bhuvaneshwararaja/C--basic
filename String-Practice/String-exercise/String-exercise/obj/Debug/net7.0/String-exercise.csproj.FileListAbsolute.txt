@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/bin/Debug/net7.0/String-exercise
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/bin/Debug/net7.0/String-exercise.deps.json
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/bin/Debug/net7.0/String-exercise.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/bin/Debug/net7.0/String-exercise.dll
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/bin/Debug/net7.0/String-exercise.pdb
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.dll
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/refint/String-exercise.dll
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.pdb
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/String-exercise.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-basic/String-Practice/String-exercise/String-exercise/obj/Debug/net7.0/ref/String-exercise.dll
