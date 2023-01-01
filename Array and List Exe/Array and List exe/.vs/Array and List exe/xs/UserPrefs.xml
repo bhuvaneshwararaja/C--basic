@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{FB2B52EE-1BE3-473A-9B6C-BB81E2083F28}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Array and List exe/Program.cs">
+    <Files>
+      <File FileName="Array and List exe/Program.cs" Line="119" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Array and List exe" expanded="True">
+            <Node name="Array and List exe" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Array_220and_220List_220exe FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Array_220and_220List_220exe PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

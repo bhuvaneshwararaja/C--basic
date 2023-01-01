@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/bin/Debug/net7.0/summary-text
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/bin/Debug/net7.0/summary-text.deps.json
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/bin/Debug/net7.0/summary-text.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/bin/Debug/net7.0/summary-text.dll
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/bin/Debug/net7.0/summary-text.pdb
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.dll
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/refint/summary-text.dll
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.pdb
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/summary-text.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-basic/text-sumarry/summary-text/summary-text/obj/Debug/net7.0/ref/summary-text.dll
